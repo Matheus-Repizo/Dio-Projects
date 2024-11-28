@@ -1,3 +1,6 @@
 [submodule "Projetos_C#/Projeto_Fundamentos"]
 	path = "Projetos_C#/Projeto_Fundamentos"
 	url = git@github.com:Matheus-Repizo/trilha-net-fundamentos-desafio.git
+[submodule "Projetos_Git_Github/Projeto_OpenSource/dio-lab-open-source"]
+	path = Projetos_Git_Github/Projeto_OpenSource/dio-lab-open-source
+	url = git@github.com:Matheus-Repizo/dio-lab-open-source.git
