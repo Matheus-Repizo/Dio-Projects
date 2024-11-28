@@ -6,3 +6,7 @@
 	path = Projetos_Git_Github/Projeto_OpenSource/dio-lab-open-source
 	url = git@github.com:Matheus-Repizo/dio-lab-open-source.git
 	branch = feat/community/Matheus-Repizo
+[submodule "Projeto_C#/Projeto_Fundamento2"]
+	path = "Projeto_C#/Projeto_Fundamento2"
+	url = git@github.com:Matheus-Repizo/trilha-net-explorando-desafio.git
+	branch = main
