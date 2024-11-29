@@ -10,3 +10,7 @@
 	path = "Projetos_C#/Projeto_Fundamentos2"
 	url = git@github.com:Matheus-Repizo/trilha-net-explorando-desafio.git
 	branch = main
+[submodule "Projetos_C#/POO"]
+	path = "Projetos_C#/POO"
+	url = git@github.com:Matheus-Repizo/trilha-net-poo-desafio.git
+	branch = main
